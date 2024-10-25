@@ -22,11 +22,11 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <link rel="shortcut icon" href="./favicon.ico" type="image/x-icon"/>
       <body className={`${geistSans.variable} ${geistMono.variable} antialiased h-screen flex `}>
-        <aside>
+
         <MenuPrincipal/>
-        </aside>
+  
      
-        <main className="h-full grow">
+        <main className="overflow-y-auto grow mx-2 pb-6">
         {children}
         </main>
       </body>

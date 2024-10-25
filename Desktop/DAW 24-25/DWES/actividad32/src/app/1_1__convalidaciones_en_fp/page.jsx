@@ -1,9 +1,13 @@
+import Titulo from "@/components/titulo";
 import Image from "next/image";
 export const metadata = {
-  title: "Informacion general: convalidaciones, exenciones y títulos",
+  title: "convalidaciones en FP",
 };
 export default function Home() {
   return (
-   <div>Pagina principal</div>
+    <>
+    <Titulo>{metadata.title}</Titulo>
+
+    </>
   );
 }
