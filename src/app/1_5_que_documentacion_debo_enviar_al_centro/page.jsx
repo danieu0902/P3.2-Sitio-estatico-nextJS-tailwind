@@ -16,7 +16,8 @@ export default function Home() {
       <div className="flex flex-col gap-4">
 
         <p>
-          Debes presentar la solicitud de convalidación de módulos profesionales, acompañada de la documentación establecida correspondiente, en el centro
+          Debes presentar la solicitud de convalidación de módulos profesionales, acompañada de la documentación
+          establecida correspondiente, en el centro
           <b>En ningún caso puedes enviar por tu cuenta la solicitud al Ministerio.</b>
         </p>
 
