@@ -25,7 +25,7 @@ export default function Home() {
           <b>Solicitud de convalidación</b> que encuentras en este
           <a className='text-blue-600 underline' href="https://www.juntadeandalucia.es/educacion/portals/web/formacion-profesional-andaluza/estudiante/posibilidades-tras-formarme/convalidaciones-modulos">  enlace (ver Impreso solicitud convalidación módulos profesionales) </a>
           En ese documento es imprescindible que cumplimentes todos los apartados. En este  <a className='text-blue-600 underline' href="https://www.juntadeandalucia.es/educacion/secretariavirtual/consulta/oferta-educativa-formacion-profesional-parcial/">enlace </a>
-          puedes consultar los módulos de cada ciclo impartido con <b>su nombre y el código exacto. Para ello, debes desplegar dentro de cada centro, el apartado "Módulos ofertados de este ciclo". Recuerda que el plazo para enviar la solicitud de convalidación concluye a finales de octubre.</b>
+          puedes consultar los módulos de cada ciclo impartido con <b>su nombre y el código exacto. Para ello, debes desplegar dentro de cada centro, el apartado &quot;Módulos ofertados de este ciclo&quot;. Recuerda que el plazo para enviar la solicitud de convalidación concluye a finales de octubre.</b>
         </ItemLista>
 
         <ItemLista>
