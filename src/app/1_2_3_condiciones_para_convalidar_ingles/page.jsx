@@ -172,7 +172,7 @@ export default function Home() {
         </table>
 
         <div className="flex flex-col gap-4 bg-yellow-50 p-10 rounded-2xl drop-shadow-md drop-shadow-black border-black border w-[90%] mx-[5%]">
-          <div className="flex flex-row gap-4"><img src="https://www.juntadeandalucia.es/educacion/gestionafp/documentacion/Informacion_tutorial/icon_parasabermasfpd.png" alt="Paco la carta" /><p className="self-center text-3xl text-amber-800 font-bold">Para saber más</p></div>
+          <div className="flex flex-row gap-4"><img src="https://www.juntadeandalucia.es/educacion/gestionafp/documentacion/Informacion_tutorial/icon_parasabermasfpd.png" alt="carta de hacienda" /><p className="self-center text-3xl text-amber-800 font-bold">Para saber más</p></div>
           <p className=" text-amber-800">Por tanto, no es posible, <span className="bg-yellow-300 underline">EN NINGÚN CASO</span>, convalidar este módulo por haber cursado una asignatura universitaria relativa a este idioma.</p>
         </div>
           
